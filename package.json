@@ -1,0 +1,14 @@
+{
+  "name": "corej",
+  "version": "1.0.0",
+  "description": "Jeremy Core Site",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "author": "Jeremy",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
+}
