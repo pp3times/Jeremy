@@ -23,7 +23,10 @@ module.exports = {
       fontFamily: {
         quicksand: ['quicksand'],
         noto: ['Noto Sans']
-      }
+      },
+      fontSize: {
+        '10xl': ['10rem', { lineHeight: '1' }],
+      },
     },
   },
   variants: {
